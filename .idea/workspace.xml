@@ -10,9 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1485ac2-620c-4642-b70a-73c251848f13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/controllers/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +354,7 @@
       <workItem from="1670660566941" duration="5115000" />
       <workItem from="1670791747965" duration="2678000" />
       <workItem from="1670960907787" duration="1656000" />
-      <workItem from="1671008669491" duration="2528000" />
+      <workItem from="1671008669491" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="Spring MVC. First application.">
       <created>1670527491808</created>
@@ -391,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670962565932</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Data transfer from controller to view">
+      <created>1671028073084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671028073084</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,6 +410,7 @@
     <MESSAGE value="Spring MVC. @Controller. @Requestmapping." />
     <MESSAGE value="HttpServletRequest" />
     <MESSAGE value="@RequestParam" />
-    <option name="LAST_COMMIT_MESSAGE" value="@RequestParam" />
+    <MESSAGE value="Data transfer from controller to view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data transfer from controller to view" />
   </component>
 </project>
